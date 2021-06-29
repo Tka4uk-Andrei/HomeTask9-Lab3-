@@ -14,4 +14,61 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="var_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="task_solution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="file_input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="task_solution.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="file_input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="file_input_mes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="10RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="1RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="2RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="3RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="4RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="5RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="6RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="7RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="8RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="9RealNumValid.in">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

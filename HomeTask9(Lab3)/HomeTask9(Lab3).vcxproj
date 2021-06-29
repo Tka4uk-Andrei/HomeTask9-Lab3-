@@ -142,6 +142,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="file_input.cpp" />
+    <ClCompile Include="task_solution.cpp" />
+    <ClCompile Include="var_2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="file_input.h" />
+    <ClInclude Include="file_input_mes.h" />
+    <ClInclude Include="Structs.h" />
+    <ClInclude Include="task_solution.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="10RealNumValid.in" />
+    <None Include="1RealNumValid.in" />
+    <None Include="2RealNumValid.in" />
+    <None Include="3RealNumValid.in" />
+    <None Include="4RealNumValid.in" />
+    <None Include="5RealNumValid.in" />
+    <None Include="6RealNumValid.in" />
+    <None Include="7RealNumValid.in" />
+    <None Include="8RealNumValid.in" />
+    <None Include="9RealNumValid.in" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
