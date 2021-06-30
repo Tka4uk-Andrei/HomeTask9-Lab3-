@@ -153,6 +153,7 @@
     <ClInclude Include="task_solution.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\Readme.md" />
     <None Include="10RealNumValid.in" />
     <None Include="1RealNumValid.in" />
     <None Include="2RealNumValid.in" />
