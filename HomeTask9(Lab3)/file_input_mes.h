@@ -1,22 +1,22 @@
-#pragma once
+п»ї#pragma once
 
 /// <summary>
-/// Имя входного файла, для которого 
-/// должен быть задан целочисленный префикс
+/// РРјСЏ РІС…РѕРґРЅРѕРіРѕ С„Р°Р№Р»Р°, РґР»СЏ РєРѕС‚РѕСЂРѕРіРѕ 
+/// РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ Р·Р°РґР°РЅ С†РµР»РѕС‡РёСЃР»РµРЅРЅС‹Р№ РїСЂРµС„РёРєСЃ
 /// </summary>
 std::string const FILE_NAME = "RealNumValid.in";
 
 /// <summary>
-/// Ошибка считывания целочисленного префикса
+/// РћС€РёР±РєР° СЃС‡РёС‚С‹РІР°РЅРёСЏ С†РµР»РѕС‡РёСЃР»РµРЅРЅРѕРіРѕ РїСЂРµС„РёРєСЃР°
 /// </summary>
 std::string const PREFIX_READ_ERR = "Prefix must be integer";
 
 /// <summary>
-/// Ошибка существования файла
+/// РћС€РёР±РєР° СЃСѓС‰РµСЃС‚РІРѕРІР°РЅРёСЏ С„Р°Р№Р»Р°
 /// </summary>
 std::string const FILE_EXIST_ERR = "File with this prefix doesn't exist";
 
 /// <summary>
-/// Ошибка пустого файла
+/// РћС€РёР±РєР° РїСѓСЃС‚РѕРіРѕ С„Р°Р№Р»Р°
 /// </summary>
 std::string const FILE_IS_EMPTY_ERR = "File is empty";

@@ -1,9 +1,9 @@
-#pragma once
+п»ї#pragma once
 
 int const STR_LEN = 100;
 
 /// <summary>
-/// Структура содержащая строку
+/// РЎС‚СЂСѓРєС‚СѓСЂР° СЃРѕРґРµСЂР¶Р°С‰Р°СЏ СЃС‚СЂРѕРєСѓ
 /// </summary>
 struct StrIn
 {
